@@ -7,6 +7,7 @@
 
 ## 🧑‍💻 요구 사항
 - 프로그래머스의 **[코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=javascript)** 를 수행한다.
+- 문제 목록 **[문제 목록](https://www.notion.so/1-5f911305b2f74fa89b78fafc6cc350e3?pvs=4)** 의 목록을 풀어야 한다
 - 해결한 문제는 `pages` 폴더 안에 `문제이름.js` 형식으로 저장한다.
 - README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
 - 1주차 과제는 **3월 10일 자정**까지 제출한다.
